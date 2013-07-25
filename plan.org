@@ -1,0 +1,58 @@
+* Terminal
+** Hardware (screen + keyboard)
+** Virtual
+** xterm, gnome-terminal, konsole, urxvt
+** control keys (ctrl+c,z,d,|)
+** control sequences (colors, move…)
+** scripting (perl for urxvt)
+* Shell
+** explorer.exe, cmd.exe
+** sh, dash
+** ksh, bash, zsh, fish
+* Concepts
+** FHS (Filesystem Hierarchy Standard)
+** env, export, vared
+** PATH, LD_LIBRARY_PATH (+ .so), PYTHONPATH
+** shell for beginners (commands, chains, indir, redir, pipe, subshell, background, detach, function / unfunction…)
+* ZSH
+** completion, fpath
+* Terminal multiplexer
+** screen, tmux
+* Tools
+** head
+** tail
+** colordiff, vimdiff, kdiff3
+** patch
+** sed
+** awk
+** hexdump
+** lsof
+** top, htop
+** namei
+** du, ncdu
+** dbus, notify-send
+** cling
+** vim
+** emacs
+** grep
+** find
+** rsync
+** ln (+ atomical change)
+** chmod
+** wget
+** curl
+** wc
+** ps
+** ls
+** kill
+** time
+** sort
+** uniq
+** cut, paste
+** uname, lsb_release
+** ssh, scp
+** man
+* Misc (other presentations)
+** zsh for exalead
+** svn tutorial
+** gdb tutorial
