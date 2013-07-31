@@ -11,48 +11,52 @@
 ** ksh, bash, zsh, fish
 * Concepts
 ** FHS (Filesystem Hierarchy Standard)
-** env, export, vared
 ** PATH, LD_LIBRARY_PATH (+ .so), PYTHONPATH
+** env, export, vared
 ** shell for beginners (commands, chains, indir, redir, pipe, subshell, background, detach, function / unfunction…)
 * ZSH
 ** completion, fpath
 * Terminal multiplexer
 ** screen, tmux
 * Tools
+** man
 ** head
 ** tail
 ** colordiff, vimdiff, kdiff3
 ** patch
+** cut, paste
+** grep
 ** sed
 ** awk
-** hexdump
-** lsof
-** top, htop
-** namei
-** du, ncdu
-** dbus, notify-send
-** cling
-** vim
-** emacs
-** grep
 ** find
-** rsync
-** ln (+ atomical change)
-** chmod
-** wget
-** curl
-** wc
-** ps
 ** ls
-** kill
-** time
 ** sort
 ** uniq
-** cut, paste
+** ps, pidof
+** top, htop
+** lsof
+** vmstat, pmap
+** namei
+** wc
+** du, ncdu
+** fdupes
+** dbus, notify-send
+** cp, rsync
+** touch, mkdir, rm, rmdir
+** ln (+ atomical change)
+** chmod, chown
+** wget
+** curl
+** kill
+** time
 ** uname, lsb_release
 ** ssh, scp
-** man
+** vim
+** emacs
+** cling
+** hexdump
+** valgrind
 * Misc (other presentations)
-** zsh for exalead
+*** zsh for exalead
 ** svn tutorial
 ** gdb tutorial
